@@ -1,5 +1,5 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
-
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+fgd
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <UserSecretsId>aspnet-FarmErp-20C93656-7074-49D6-BBEB-340463E087AD</UserSecretsId>
