@@ -35,3 +35,10 @@ body {
         display: none;
     }
 }
+
+/*my css*/
+div #right-side
+{
+    background-image:url('~/images/img6.jpg');
+    background-size:auto;
+}

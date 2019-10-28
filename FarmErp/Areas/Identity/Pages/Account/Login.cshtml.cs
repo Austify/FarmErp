@@ -67,7 +67,7 @@ namespace FarmErp.Areas.Identity.Pages.Account
 
         public async Task<IActionResult> OnPostAsync(string returnUrl = null)
         {
-            returnUrl = returnUrl ?? Url.Content("/da");
+            returnUrl = returnUrl ?? Url.Content("/dashboard");
 
             if (ModelState.IsValid)
             {
